@@ -1,0 +1,5 @@
+TEAM PROFILE
+
+Team Name: Git Masters
+Team Leader: Honey
+Project: Git Merge Conflict Activity
